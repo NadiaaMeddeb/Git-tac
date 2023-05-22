@@ -40,13 +40,13 @@
     "type" : "job"
   },
   "relatedItems" : [ {
-    "id" : "_t3GIiPirEe21dMVssw0ApQ",
+    "id" : "_JTB3MPisEe21dMVssw0ApQ",
     "version" : "Latest",
     "type" : "joblet"
   }, {
-    "id" : "_ykPJAInrEeil5aKDSgFuTw - metadata",
+    "id" : "_t3GIiPirEe21dMVssw0ApQ",
     "version" : "Latest",
-    "type" : "schema"
+    "type" : "joblet"
   } ]
 }, {
   "baseItem" : {
