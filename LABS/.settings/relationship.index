@@ -45,4 +45,19 @@
     "type" : "job"
   },
   "relatedItems" : [ ]
+}, {
+  "baseItem" : {
+    "id" : "_xv7dcPikEe21dMVssw0ApQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_rnyagPikEe21dMVssw0ApQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_rnyagPikEe21dMVssw0ApQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
 } ]
